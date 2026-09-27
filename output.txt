@@ -1,0 +1,42 @@
+#output for BasicChatbot.py file
+#Basic Conversation of human and Chatbot 
+
+
+Hello,How can i help you
+
+Human:hello
+Bot: Hi!
+Human:what is your name
+Bot: I am a basic chatbot.
+Human:what can you do
+Bot: I can answer some basic python questions
+Human:what is python
+Bot: python is high-level-programming language
+Human:who is the creater of python
+Bot: I'm sorry,I don't understand
+Human:creator of python
+Bot: Python was created by Guido van Rossum.
+Human:what is a variable
+Bot:  A variable is used to store a value.
+Human:list datatypes in python
+Bot: Common Python data types are int, float, string, list, tuple, set and dictionary.
+Human:what is mean by integer
+Bot: An integer is a whole number, such as 10 or -5.
+Human:define list
+Bot: A list is an ordered and changeable collection of items.
+Human:define dictionary in python
+Bot: A dictionary stores data in key-value pairs.
+Human:what is a function
+Bot: A function is a reusable block of code.
+Human:why loop are used
+Bot: A loop is used to repeat a block of code.
+Human:why print() function is used
+Bot: A function is a reusable block of code.
+Human:why break statemnt is used
+Bot: break is used to stop a loop.
+Human:why continue statemnt is used
+Bot: continue skips the current iteration and continues the loop.
+Human:thank you for your help
+Bot: your're Welcome!
+Human:bye
+Bot: GoodBye
